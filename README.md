@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Pedro Emílio 👋
-4º Período de ADS, atualmente estagiando na área de hardware e redes, pela Prefeitura Municipal de Betim. Mas em paralelo venho estudando programação, para seguir na área de desenvolvimento na linguagem c#.
+4º Período de ADS, atualmente estagiando na área de hardware e redes, pela Prefeitura Municipal de Betim. Mas em paralelo venho estudando programação para seguir na área de desenvolvimento na linguagem c#.
 
 [![site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=BR-SEM_google-adwords_Jordan-brand-sign-up)
 
