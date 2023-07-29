@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Pedro Emílio 👋
-Estou iniciando no curso de Análise e Desenvolvimento de Sistemas, sempre tive interesse na área de tecnologia, porém a vida me levou a iniciar um curso de Educação Física, e, após 3 períodos notei que não seria minha área de interesse. Como o interesse em tecnologia se manteve latente, iniciei um curso basico de C# e lógica de programação na Udemy, no momento em que encontrei dificuldades dentro do curso, fui em busca de mais conhecimento e decidi ingressar na faculdade. Trabalhei por sete anos na área de restaurantes, com atendimento a cliente, gestão e treinamento de equipe. Acredito que minha facilidade de comunicação e experiência gerindo pessoas será muito útil na área de TI.
+4º Período de ADS, atualmente estagiando na área de hardware e redes, pela Prefeitura Municipal de Betim. Mas em paralelo venho estudando programação, para seguir na área de desenvolvimento na linguagem c#.
 
 [![site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=BR-SEM_google-adwords_Jordan-brand-sign-up)
 
